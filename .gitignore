@@ -1,1 +1,5 @@
 .idea
+vendor
+api/.idea
+frontend/.idea
+gateway/.idea
